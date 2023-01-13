@@ -12,4 +12,4 @@
 * **CREATE INDEX** - creates an index (search key)
 * **DROP INDEX** - deletes an index
 
-### WHERE CLAUSE
+#### WHERE CLAUSE
