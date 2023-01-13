@@ -12,4 +12,17 @@
 * **CREATE INDEX** - creates an index (search key)
 * **DROP INDEX** - deletes an index
 
-#### WHERE CLAUSE
+#### SELECT DISTINCT - for different values
+#### WHERE CLAUSE and usage of AND, OR and NOT
+#### ORDER BY
+#### INSERT INTO
+#### IS NULL and IS NOT NULL
+#### UPDATE
+#### DELETE
+#### SELECT TOP
+#### MIN AND MAX
+#### COUNT, AVG, SUM
+#### LIKE
+#### WILDCARDS
+#### IN or NOT IN
+#### 
