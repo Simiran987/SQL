@@ -25,4 +25,5 @@
 #### LIKE
 #### WILDCARDS
 #### IN or NOT IN
+#### BETWEEN or NOT BETWEEN
 #### 
